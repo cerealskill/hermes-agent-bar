@@ -28,7 +28,7 @@ Built for people who live in agents all day and want the fast path: click, ask, 
 ## Preview
 
 <p align="center">
-  <img src="assets/hermes-agent-bar-screenshot.png" alt="Hermes Agent Bar macOS popover" width="722">
+  <img src="assets/hermes-agent-bar-screenshot-v2.png" alt="Hermes Agent Bar macOS popover" width="722">
 </p>
 
 ## Requirements
