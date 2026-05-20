@@ -27,16 +27,9 @@ Built for people who live in agents all day and want the fast path: click, ask, 
 
 ## Preview
 
-```text
-⚚ Hermes
-┌──────────────────────────────────────────────┐
-│ ⚕ gpt-5.5 │ session 1 │ turn 1 │ Ready       │
-├──────────────────────────────────────────────┤
-│ Ask Hermes anything from a native macOS pane. │
-├──────────────────────────────────────────────┤
-│ > Build the app, run checks, summarize diff   │
-└──────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="assets/hermes-agent-bar-screenshot.png" alt="Hermes Agent Bar macOS popover" width="696">
+</p>
 
 ## Requirements
 
